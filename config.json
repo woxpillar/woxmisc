@@ -1,0 +1,11 @@
+{
+  "targetAccount": "upex",
+  "steemApi": "https://api.steemit.com",
+  "postingKey": "5KWkHd6w7XSio7AzVx73f6yGm2mTkK2t2xXm6LcDT43ohEWHXUW",
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "Pranish@1234",
+    "database": "upex"
+  }
+}
